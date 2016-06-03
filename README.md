@@ -6,6 +6,8 @@ uma função javascript, para abrir somente os arquivos daquele estado.
 
 Pensando em deixar a aplicação mais rápida, pois assim não precisa carregar uma lista completa de mais de 5000 cidades, para quem poderia usar somente 200 ou até menos.
 
+[Página demo](http://codepen.io/muriloeduardo/full/OXVjWE/)
+
 # IBGE
 Esta informações foram baseadas nos dados atuais do IBGE2016, contendo todas suas cidades e estados de uma maneira modularizada, "plugável" e super leve no formato JSON
 
